@@ -10,5 +10,7 @@ It is **SIMPLE** and, if you don't like it, just execute the commands by yoursel
   If you have any needs or issue to report, feel free!
 ### Basic installation
 ```
-Just download or git clone the repository, and put myip in your path
+Just download or git clone the repository.
+chmod +x myping
+Put myip in one of your directories inside your $PATH;
 ```
