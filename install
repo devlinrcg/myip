@@ -1,6 +1,0 @@
-#!/bin/bash
-echo "This execution puts myip into /usr/local/bin so you can use it in your path"
-git clone --depth=1 https://github.com/devlinrcg/myip
-cp myip/myip /usr/local/bin/myip
-chmod +x /usr/local/bin/myip
-echo "Done. Now, type myip so you can check your external IP from the console"

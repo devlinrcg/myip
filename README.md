@@ -8,11 +8,7 @@ After that, you can run the command again.
 It is **SIMPLE** and, if you don't like it, just execute the commands by yourself and you'll be fine :)  
 
   If you have any needs or issue to report, feel free!
-### Basic installation using curl
+### Basic installation
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/devlinrcg/myip/master/install)"
-```
-### Basic installation using wget
-```
-sh -c "$(wget https://raw.githubusercontent.com/devlinrcg/myip/master/install -O -)"
+Just download or git clone the repository, and put myip in your path
 ```
