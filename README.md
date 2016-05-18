@@ -14,5 +14,5 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/devlinrcg/myip/master/inst
 ```
 ### Basic installation using wget
 ```
-sh -c "$(curl -fsSL sh -c "$(wget https://raw.githubusercontent.com/devlinrcg/myip/master/install -O -)"
+sh -c "$(wget https://raw.githubusercontent.com/devlinrcg/myip/master/install -O -)"
 ```
