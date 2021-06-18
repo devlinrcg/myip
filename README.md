@@ -22,3 +22,5 @@ Put myip in one of your directories inside your $PATH;
 ```
 
 ### TODO
+
+- Change to Python
