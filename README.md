@@ -20,3 +20,5 @@ Just download or git clone the repository
 $ chmod +x myip
 Put myip in one of your directories inside your $PATH;
 ```
+
+### TODO
